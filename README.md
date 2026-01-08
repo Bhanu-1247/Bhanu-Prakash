@@ -37,7 +37,8 @@ I’m a final-year Engineering student focused on:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanu-1247&show_icons=true&theme=radical)
+![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanu-1247&show_icons=true&theme=radical)
+
 
 ---
 
